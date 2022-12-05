@@ -1,0 +1,8 @@
+Alumno: Santiago Fernández
+Materia: Laboratorio 1
+Division: B
+
+La estructura que agregue es la de eRol la cual tiene como campos de estructura, un id y una descripcion. Ésta ultima hardcodeada por 3 items los cuales son, "heroe","villano" y "secundario". Me parecio lo mas adecuado trabajar con una estructura de este tipo ya que es mas facil para manipular el proyecto ademas que me parece una entidad muy importante en el desarrollo del mismo.
+
+El informe que agrego, va a ser un listado de los actores ordenados por rol que los haya dirigido un director que ingrese el usuario. 
+
